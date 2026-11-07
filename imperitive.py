@@ -38,3 +38,15 @@ def born_in_or_after_1920(x):
     return jazz_greats_1920
 
 show("born in or after 1920", born_in_or_after_1920(jazz_greats_split))
+
+names = [great[0] for great in jazz_greats_split]
+
+show("names", names)
+
+def alphasort(x):
+    last_name_first = [great[0].split()[-1:] + great for great in x]
+    sorted_last = sorted(last_name_first)
+    alpha = [great[1:] for great in sorted_last]
+    return alpha
+
+show("sorted names", alphasort(jazz_greats_split))
