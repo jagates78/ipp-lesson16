@@ -1,0 +1,26 @@
+name|birthdate|death_date|instrument|style|country_of_birth
+Louis Armstrong|August 4, 1901|July 6, 1971|Trumpet; cornet; voice|Traditional jazz; swing|US
+Chet Baker|December 23, 1929|May 13, 1988|Trumpet; voice|Cool jazz; West Coast jazz|US
+Count Basie|August 21, 1904|April 26, 1984|Piano; organ|Swing; big band|US
+Art Blakey|October 11, 1919|October 16, 1990|Drums|Hard bop|US
+Alice Coltrane|August 27, 1937|January 12, 2007|Piano; harp; organ|Spiritual jazz; avant-garde jazz|US
+John Coltrane|September 23, 1926|July 17, 1967|Tenor saxophone; soprano saxophone|Hard bop; modal jazz; free jazz|US
+Miles Davis|May 26, 1926|September 28, 1991|Trumpet|Bebop; cool jazz; modal jazz; jazz fusion|US
+Duke Ellington|April 29, 1899|May 24, 1974|Piano|Swing; big band; orchestral jazz|US
+Bill Evans|August 16, 1929|September 15, 1980|Piano|Cool jazz; modal jazz; post-bop|US
+Ella Fitzgerald|April 25, 1917|June 15, 1996|Voice|Vocal jazz; swing; scat|US
+Stan Getz|February 2, 1927|June 6, 1991|Tenor saxophone|Cool jazz; bossa nova|US
+Dizzy Gillespie|October 21, 1917|January 6, 1993|Trumpet|Bebop; Afro-Cuban jazz|US
+Benny Goodman|May 30, 1909|June 13, 1986|Clarinet|Swing; big band|US
+Stéphane Grappelli|January 26, 1908|December 1, 1997|Violin; piano|Swing; jazz manouche|France
+Billie Holiday|April 7, 1915|July 17, 1959|Voice|Vocal jazz; swing|US
+Antônio Carlos Jobim|January 25, 1927|December 8, 1994|Piano; guitar; voice|Bossa nova; Brazilian jazz|Brazil
+Charles Mingus|April 22, 1922|January 5, 1979|Double bass; piano|Hard bop; post-bop; avant-garde jazz|US
+Thelonious Monk|October 10, 1917|February 17, 1982|Piano|Bebop; post-bop|US
+Wes Montgomery|March 6, 1923|June 15, 1968|Guitar|Hard bop; soul jazz|US
+Charlie Parker|August 29, 1920|March 12, 1955|Alto saxophone|Bebop|US
+Oscar Peterson|August 15, 1925|December 23, 2007|Piano|Swing; bebop|Canada
+Django Reinhardt|January 23, 1910|May 16, 1953|Guitar|Jazz manouche; swing|Belgium
+Nina Simone|February 21, 1933|April 21, 2003|Voice; piano|Vocal jazz; soul jazz; blues|US
+Sarah Vaughan|March 27, 1924|April 3, 1990|Voice; piano|Vocal jazz; bebop|US
+Mary Lou Williams|May 8, 1910|May 28, 1981|Piano|Swing; bebop; sacred jazz|US
